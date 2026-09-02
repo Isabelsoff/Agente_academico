@@ -1,0 +1,38 @@
+[
+  {
+    "dia": "lunes",
+    "asignatura": "Bases de Datos",
+    "hora": "8:00 a. m. - 10:00 a. m.",
+    "aula": "Aula 301"
+  },
+  {
+    "dia": "lunes",
+    "asignatura": "Programación",
+    "hora": "10:00 a. m. - 12:00 m.",
+    "aula": "Laboratorio 2"
+  },
+  {
+    "dia": "martes",
+    "asignatura": "Ingeniería de Software",
+    "hora": "6:00 p. m. - 8:00 p. m.",
+    "aula": "Aula 405"
+  },
+  {
+    "dia": "miércoles",
+    "asignatura": "Matemáticas Discretas",
+    "hora": "8:00 a. m. - 10:00 a. m.",
+    "aula": "Aula 203"
+  },
+  {
+    "dia": "jueves",
+    "asignatura": "Bases de Datos",
+    "hora": "6:00 p. m. - 8:00 p. m.",
+    "aula": "Laboratorio 1"
+  },
+  {
+    "dia": "viernes",
+    "asignatura": "Programación",
+    "hora": "2:00 p. m. - 4:00 p. m.",
+    "aula": "Laboratorio 3"
+  }
+]
