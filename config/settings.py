@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-1.5-pro"
+GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 
 def validar_configuracion() -> None:
